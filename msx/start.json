@@ -1,5 +1,5 @@
 {
     "name": "My WALS Portal",
     "version": "1.0.0",
-    "parameter": "menu:https://wals-portal.github.io/msx/start.json"
+    "parameter": "menu:https://wals-portal.github.io/msx/data/menu.json"
 }
