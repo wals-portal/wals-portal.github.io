@@ -13,7 +13,7 @@
             "id": "drm-play",
             "icon": "https://t0h0e.github.io/msx/logon/drm.png",
             "label": "DRM-play",
-            "action": "link:https://ott.drm-play.com"
+            "action": "link:https://ott.drm-play.com/pc"
         },
         {
             "id": "lampa",
