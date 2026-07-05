@@ -13,7 +13,7 @@
             "id": "lampa",
             "icon": "live-tv",
             "label": "Lampa",
-            "action": "link:https://voipoddsns.github.io/"
+            "action": "link:http://lampa.mx"
         },
         {
             "id": "youtube",
