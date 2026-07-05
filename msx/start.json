@@ -1,0 +1,5 @@
+{
+    "name": "My WALS Portal",
+    "version": "1.0.0",
+    "parameter": "menu:https://USERNAME.github.io/wals-portal/data/menu.json"
+}
