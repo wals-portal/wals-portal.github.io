@@ -13,37 +13,37 @@
             "id": "lampa",
             "icon": "live-tv",
             "label": "Lampa",
-            "action": "http://lampa.mx"
+            "action": "link:http://lampa.mx"
         },
         {
             "id": "youtube",
             "icon": "ondemand-video",
             "label": "YouTube",
-            "action": "https://www.youtube.com/tv"
+            "action": "link:https://www.youtube.com/tv"
         },
         {
             "id": "megogo",
             "icon": "tv",
             "label": "MEGOGO",
-            "action": "https://megogo.net"
+            "action": "link:https://megogo.net"
         },
         {
             "id": "sweet",
             "icon": "live-tv",
             "label": "Sweet.TV",
-            "action": "https://sweet.tv"
+            "action": "link:https://sweet.tv"
         },
         {
             "id": "twitch",
             "icon": "videocam",
             "label": "Twitch",
-            "action": "https://www.twitch.tv"
+            "action": "link:https://www.twitch.tv"
         },
         {
             "id": "qbittorrent",
             "icon": "cloud-download",
             "label": "qBittorrent",
-            "action": "http://192.168.1.1:8080"
+            "action": "link:http://192.168.1.1:8080"
         }
     ]
 }
