@@ -11,7 +11,7 @@
     "items": [
         {
             "id": "drm-play",
-            "icon": "https://t0h0e.github.io/msx/logon/drm.png",
+            "icon": "https://files.cdn-files-a.com/uploads/4884435/normal_65ec8b0aaf5d2.png",
             "label": "DRM-play",
             "action": "content:http://drm-play.com/msx/content.json"
         },
