@@ -6,7 +6,7 @@
     "menu": [
         {
             "id": "apps",
-            "label": "Застосунки",
+            "label": "Всі застосунки",
             "icon": "apps",
             "focus": true,
             "data": "https://wals-portal.github.io/msx/data/apps.json"
