@@ -10,6 +10,12 @@
     },
     "items": [
         {
+            "id": "drm-play",
+            "icon": "https://t0h0e.github.io/msx/logon/drm.png",
+            "label": "DRM-play",
+            "action": "link:http://ott.drm-play.com"
+        },
+        {
             "id": "lampa",
             "icon": "live-tv",
             "label": "Lampa",
