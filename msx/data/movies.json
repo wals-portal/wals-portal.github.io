@@ -13,13 +13,13 @@
             "id": "lampa2",
             "icon": "live-tv",
             "label": "Lampa",
-            "action": "menu:request:interaction:menu@https://lift3.ws/msx/start.json"
+            "action": "menu@https://lift3.ws/msx/"
         },
         {
             "id": "megogo2",
             "icon": "tv",
             "label": "MEGOGO",
-            "action": "https://megogo.net"
+            "action": "link:https://megogo.net"
         },
         {
             "id": "sweet2",
