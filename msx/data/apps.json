@@ -13,7 +13,7 @@
             "id": "drm-play",
             "icon": "https://files.cdn-files-a.com/uploads/4884435/normal_65ec8b0aaf5d2.png",
             "label": "DRM-play",
-            "action": "content:http://drm-play.com/msx/content.json"
+            "action": "link:https://ott.drm-play.com/index.php"
         },
         {
             "id": "lampa",
