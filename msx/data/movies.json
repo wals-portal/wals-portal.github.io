@@ -19,13 +19,13 @@
             "id": "megogo2",
             "icon": "tv",
             "label": "MEGOGO",
-            "action": "link:window:https://megogo.net"
+            "action": "https://megogo.net"
         },
         {
             "id": "sweet2",
             "icon": "movie",
             "label": "Sweet.TV",
-            "action": "link:window:https://sweet.tv"
+            "action": "https://sweet.tv"
         }
     ]
 }
