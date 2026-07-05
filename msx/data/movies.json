@@ -13,7 +13,7 @@
             "id": "lampa2",
             "icon": "live-tv",
             "label": "Lampa",
-            "action": "link:http://msx.benzac.de/?start=menu:request:interaction:menu@http://lift3.ws/msx/"
+            "action": "menu:request:interaction:menu@http://lift3.ws/msx/"
         },
         {
             "id": "megogo2",
