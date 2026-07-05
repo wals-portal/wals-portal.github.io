@@ -14,7 +14,7 @@
           "important": true,
           "action": "update:content:underlay:text",
           "data": {
-               "headline": "OTT-FOSS",
+               "headline": "OTT-FOSSS",
                "text": "IPTV плеер с поддержкой плейлистов в формате m3u, m3u8, медиатеки."
             }
          },
