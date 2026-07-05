@@ -1,0 +1,49 @@
+{
+    "name": "Apps",
+    "type": "list",
+    "headline": "Мої застосунки",
+    "template": {
+        "type": "button",
+        "layout": "0,0,3,2",
+        "color": "msx-glass",
+        "iconSize": "large"
+    },
+    "items": [
+        {
+            "id": "lampa",
+            "icon": "live-tv",
+            "label": "Lampa",
+            "action": "link:https://voipoddsns.github.io/"
+        },
+        {
+            "id": "youtube",
+            "icon": "ondemand-video",
+            "label": "YouTube",
+            "action": "link:window:https://www.youtube.com/tv"
+        },
+        {
+            "id": "megogo",
+            "icon": "tv",
+            "label": "MEGOGO",
+            "action": "link:window:https://megogo.net"
+        },
+        {
+            "id": "sweet",
+            "icon": "live-tv",
+            "label": "Sweet.TV",
+            "action": "link:window:https://sweet.tv"
+        },
+        {
+            "id": "twitch",
+            "icon": "videocam",
+            "label": "Twitch",
+            "action": "link:window:https://www.twitch.tv"
+        },
+        {
+            "id": "qbittorrent",
+            "icon": "cloud-download",
+            "label": "qBittorrent",
+            "action": "link:window:http://192.168.1.1:8080"
+        }
+    ]
+}
