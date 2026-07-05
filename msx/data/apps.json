@@ -9,6 +9,18 @@
         "iconSize": "large"
     },
     "items": [
+    {
+        "selection": {
+          "important": true,
+          "action": "update:content:underlay:text",
+          "data": {
+               "headline": "OTT-FOSS",
+               "text": "IPTV плеер с поддержкой плейлистов в формате m3u, m3u8, медиатеки."
+            }
+         },
+         "image": "https://t0h0e.github.io/msx/logon/foss.png",
+         "action": "link:http://ott.prog4food.eu.org/f/"
+      },
         {
             "id": "drm-play",
             "image": "https://files.cdn-files-a.com/uploads/4884435/normal_65ec8b0aaf5d2.png",
