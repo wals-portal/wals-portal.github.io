@@ -1,6 +1,6 @@
 {
    "type": "list",
-   "headline": "WALS_PORTAL 2.5",
+   "headline": "WALS_PORTAL 1.0.0",
    "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
    "dictionary": "https://wals-portal.github.io/msx/dictionary.json",
    "preload": "next",
@@ -52,7 +52,7 @@
             }
          },
          "image": "https://wals-portal.github.io/msx/logo/drm.png",
-         "action": "link:http://ott.drm-play.com"
+         "action": "link:http://ott.drm-play.com/index.php"
       },
       {
          "selection": {
