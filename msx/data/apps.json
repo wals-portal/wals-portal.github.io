@@ -1,67 +1,41 @@
 {
-    "name": "Apps",
     "type": "list",
     "headline": "Мої застосунки",
+    "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "template": {
-        "type": "button",
+        "type": "default",
         "layout": "0,0,3,2",
         "color": "msx-glass",
-        "iconSize": "large"
+        "imageFiller": "fit"
     },
     "items": [
-    {
-        "selection": {
-          "important": true,
-          "action": "update:content:underlay:text",
-          "data": {
-               "headline": "OTT-FOSS",
-               "text": "IPTV плеер с поддержкой плейлистов в формате m3u, m3u8, медиатеки."
-            }
-         },
-         "image": "https://t0h0e.github.io/msx/logon/foss.png",
-         "action": "link:http://ott.prog4food.eu.org/f/"
-      },
-        {
-            "id": "drm-play",
-            "image": "https://files.cdn-files-a.com/uploads/4884435/normal_65ec8b0aaf5d2.png",
-            "label": "DRM-play",
-            "action": "link:https://ott.drm-play.com/index.php"
-        },
         {
             "id": "lampa",
-            "icon": "live-tv",
-            "label": "Lampa",
-            "action": "link:http://lampa.mx"
+            "title": "Lampa",
+            "image": "https://www.google.com/s2/favicons?sz=128&domain=lampa.mx",
+            "color": "msx-blue",
+            "action": "link:https://voipoddsns.github.io/"
         },
         {
             "id": "youtube",
-            "icon": "ondemand-video",
-            "label": "YouTube",
-            "action": "link:https://www.youtube.com/tv"
-        },
-        {
-            "id": "megogo",
-            "icon": "tv",
-            "label": "MEGOGO",
-            "action": "link:https://megogo.net"
-        },
-        {
-            "id": "sweet",
-            "icon": "live-tv",
-            "label": "Sweet.TV",
-            "action": "link:https://sweet.tv"
+            "title": "YouTube",
+            "image": "https://www.google.com/s2/favicons?sz=128&domain=youtube.com",
+            "color": "msx-red",
+            "action": "link:window:https://www.youtube.com/tv"
         },
         {
             "id": "twitch",
-            "icon": "videocam",
-            "label": "Twitch",
-            "action": "link:https://www.twitch.tv"
+            "title": "Twitch",
+            "image": "https://www.google.com/s2/favicons?sz=128&domain=twitch.tv",
+            "color": "msx-black",
+            "action": "link:window:https://www.twitch.tv"
         },
         {
             "id": "qbittorrent",
-            "icon": "cloud-download",
-            "label": "qBittorrent",
-            "action": "link:http://192.168.1.1:8080"
+            "title": "qBittorrent",
+            "image": "https://www.google.com/s2/favicons?sz=128&domain=qbittorrent.org",
+            "color": "msx-gray",
+            "action": "link:window:http://192.168.1.1:8080"
         }
     ]
 }
