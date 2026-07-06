@@ -5,9 +5,9 @@
     "style": "default",
     "menu": [
         {
-            "id": "menu",
+            "id": "apps",
             "label": "Всі застосунки",
-            "icon": "menu",
+            "icon": "apps",
             "focus": true,
             "data": "https://wals-portal.github.io/msx/data/apps.json"
         },

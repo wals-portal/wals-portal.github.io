@@ -574,63 +574,7 @@
          "image": "https://wals-portal.github.io/msx/logo/ytkids.png",
          "action": "link:https://www.youtube.com/tv/kids"
       },
-      {
-         "selection": {
-            "important": true,
-            "action": "update:content:underlay:text",
-            "data": {
-               "headline": "МУЛЬТИКИ",
-               "text": "Смотрим мультфильмы онлайн. Коллекция мультфильмов советских времен и не только. Самые лучшие мультики из вашего детства!"
-            }
-         },
-         "image": "https://wals-portal.github.io/msx/logo/multiki.png",
-         "action": "content:https://wals-portal.github.io/msx/welcome.json"
-      },
-      {
-         "selection": {
-            "important": true,
-            "action": "update:content:underlay:text",
-            "data": {
-               "headline": "RELAX",
-               "text": "Подборки IPTV каналов из интернета в открытом доступе.{br} Работают так как есть. Работают пока работают."
-            }
-         },
-         "image": "https://wals-portal.github.io/msx/logo/relax.png",
-         "action": "content: https://wals-portal.github.io/msx/bonus/relax.json",
-         "properties": {
-            "trigger:back": "player:stop"
-         }
-      },
-      {
-         "selection": {
-            "image": "https://cdn.dribbble.com/users/3547568/screenshots/14395014/music_jpeg_4x.jpg",
-            "important": true,
-            "action": "update:content:underlay:text",
-            "data": {
-               "headline": "Дискотека 80-х",
-               "text": "Интернет-трансляции, ТВ-версии выступления звёзд на «Дискотеке 80-х» Yotube-каналa Avtoradio @Disco80s"
-            }
-         },
-         "image": "https://yt3.googleusercontent.com/ytc/AIdro_kUkL-a59qSwEq6Dc-Il979Khwahh1_URZsficN8tYV=s160-c-k-c0x00ffffff-no-rj",
-         "action": "content:https://wals-portal.github.io/msx/prog/avtoradio/translation.json"
-      },
-      {
-         "offset": "0,2.5,11,0",
-         "color": "msx-black-soft",
-         "label": "{ico:msx-white:shop-2} Альтернативные магазины лаунчеры {ico:msx-white:shop-2}",
-         "selection": {
-            "important": true,
-            "action": "update:content:underlay:text",
-            "data": {
-               "headline": "AlterSTORE",
-               "text": " Альтернативные MSX магазины / лаунчеры"
-            } 
-         },
-         "action": "panel:https://wals-portal.github.io/msx/alterstore/template.json",
-         "properties": {
-            "trigger:back": "player:stop"
-           }
-      }
+     }
    ]
 }
 
