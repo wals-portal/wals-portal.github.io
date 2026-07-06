@@ -3,6 +3,7 @@
    "headline": "WALS_PORTAL 1.0.0",
    "extension": "{col:msx-white}{ico:msx-white:event} {now:date:dd.mm.yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
    "dictionary": "https://wals-portal.github.io/msx/dictionary.json",
+   "action": "[settings:validate_links:0|home]",
    "preload": "next",
    "captionUnderlay": 1,
    "underlay": {
