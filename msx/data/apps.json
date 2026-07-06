@@ -428,6 +428,7 @@
                "text": "Oнлайн-сервис для хостинга и просмотра видео"
             }
          },
+		 "type": "control",
          "image": "https://wals-portal.github.io/msx/logo/youtube.png",
          "action": "link:https://www.youtube.com/tv#/"
       },
