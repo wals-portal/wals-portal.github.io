@@ -52,7 +52,7 @@
             }
          },
          "image": "https://wals-portal.github.io/msx/logo/drm.png",
-         "action": "execute:info:content:http://drm-play.com/msx/data.php"
+         "action": "execute:http://drm-play.com/msx/data.php"
       },
       {
          "selection": {
