@@ -439,6 +439,9 @@
                "text": " Фильмы и Мультфильмы. Крупнейшая база на любой вкус, обновляется ежедневно, новинки появляются сразу после премьеры в кинотеатре."
             }
          },
+         "image": "https://wals-portal.github.io/msx/logo/getstv.png",
+         "action": "panel:http://lg.getstv.ru/msx/msx.json"
+      },
       {
          "selection": {
             "important": true,
