@@ -1,7 +1,7 @@
 {
    "type": "list",
    "headline": "WALS_PORTAL 1.0.0",
-   "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
+   "extension": "{col:msx-white}{ico:msx-white:event} {now:date:dd.mm.yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
    "dictionary": "https://wals-portal.github.io/msx/dictionary.json",
    "preload": "next",
    "captionUnderlay": 1,
@@ -51,8 +51,8 @@
                "text": "IPTV плеер с поддержкой плейлистов в формате m3u, m3u8, stalker-portal, медиатеки. Тестовый плейлист для ознакомления с функциями плеера."
             }
          },
-         "image": "https://wals-portal.github.io/msx/logo/drm.png",
-         "action": "execute:info:extended:http://drm-play.com/msx/data.php"
+         "image": "http://msx.nnmtv.pw/msx/img/drm_new.png",
+         "action": "execute:info:extended:https://drm-play.com/msx/data.php"
       },
       {
          "selection": {
