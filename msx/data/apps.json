@@ -42,23 +42,6 @@
    },
    "items": [
       {
-         "color": "transparent",
-         "image": "https://wals-portal.github.io/msx/logo/tema.png",
-         "selection": {
-            "important": true,
-            "action": "update:content:underlay:text",
-            "data": {
-               "headline": "Тема оформления",
-               "text": "Выбор темы оформления WALS_MSX"
-            }
-         },
-         "action": "panel:https://wals-portal.github.io/msx/tema/panel_tems.json",
-         "properties": {
-            "trigger:back": "player:stop",
-            "image:extension": "| {col:msx-white}26th Item"
-         }
-      },
-      {
          "focus": true,
          "selection": {
             "important": true,
