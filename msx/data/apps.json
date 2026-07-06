@@ -570,7 +570,7 @@
                "headline": "YOUTUBE KIDS",
                "text": "Oтдельная версия популярного видеохостинга Youtube, нацеленная исключительно на детей."
             }
-         },
+         }
          "image": "https://wals-portal.github.io/msx/logo/ytkids.png",
          "action": "link:https://www.youtube.com/tv/kids"
       },
