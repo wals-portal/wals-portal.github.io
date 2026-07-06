@@ -1,13 +1,13 @@
 {
-    "name": "My WALS",
-    "version": "2.0.0",
+    "name": "Wals Portal",
+    "version": "1.0.0",
     "headline": "MY WALS",
     "style": "default",
     "menu": [
         {
-            "id": "apps",
-            "label": "Застосунки",
-            "icon": "apps",
+            "id": "menu",
+            "label": "Всі застосунки",
+            "icon": "menu",
             "focus": true,
             "data": "https://wals-portal.github.io/msx/data/apps.json"
         },

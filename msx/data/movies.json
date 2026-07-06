@@ -1,34 +1,31 @@
 {
+    "name": "Movies",
     "type": "list",
     "headline": "Кіно та ТБ",
-    "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "template": {
-        "type": "default",
+        "type": "button",
         "layout": "0,0,3,2",
         "color": "msx-glass",
-        "imageFiller": "fit"
+        "iconSize": "large"
     },
     "items": [
         {
             "id": "lampa2",
-            "title": "Lampa",
-            "image": "https://www.google.com/s2/favicons?sz=128&domain=lampa.mx",
-            "color": "msx-blue",
-            "action": "link:https://voipoddsns.github.io/"
+            "icon": "live-tv",
+            "label": "Lampa",
+            "action": "menu@https://lift3.ws/msx/"
         },
         {
-            "id": "megogo",
-            "title": "MEGOGO",
-            "image": "https://www.google.com/s2/favicons?sz=128&domain=megogo.net",
-            "color": "msx-yellow",
-            "action": "link:window:https://megogo.net"
+            "id": "megogo2",
+            "icon": "tv",
+            "label": "MEGOGO",
+            "action": "link:https://megogo.net"
         },
         {
-            "id": "sweettv",
-            "title": "Sweet.TV",
-            "image": "https://www.google.com/s2/favicons?sz=128&domain=sweet.tv",
-            "color": "msx-glass",
-            "action": "link:window:https://sweet.tv"
+            "id": "sweet2",
+            "icon": "movie",
+            "label": "Sweet.TV",
+            "action": "https://sweet.tv"
         }
     ]
 }
