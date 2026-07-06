@@ -1,0 +1,41 @@
+{
+    "type": "list",
+    "headline": "Мої застосунки",
+    "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
+    "template": {
+        "type": "default",
+        "layout": "0,0,3,2",
+        "color": "msx-glass",
+        "imageFiller": "fit"
+    },
+    "items": [
+        {
+            "id": "lampa",
+            "title": "Lampa",
+            "image": "https://www.google.com/s2/favicons?sz=128&domain=lampa.mx",
+            "color": "msx-blue",
+            "action": "link:https://voipoddsns.github.io/"
+        },
+        {
+            "id": "youtube",
+            "title": "YouTube",
+            "image": "https://www.google.com/s2/favicons?sz=128&domain=youtube.com",
+            "color": "msx-red",
+            "action": "link:window:https://www.youtube.com/tv"
+        },
+        {
+            "id": "twitch",
+            "title": "Twitch",
+            "image": "https://www.google.com/s2/favicons?sz=128&domain=twitch.tv",
+            "color": "msx-black",
+            "action": "link:window:https://www.twitch.tv"
+        },
+        {
+            "id": "qbittorrent",
+            "title": "qBittorrent",
+            "image": "https://www.google.com/s2/favicons?sz=128&domain=qbittorrent.org",
+            "color": "msx-gray",
+            "action": "link:window:http://192.168.1.1:8080"
+        }
+    ]
+}

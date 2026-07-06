@@ -1,0 +1,27 @@
+{
+    "type": "list",
+    "headline": "Музика",
+    "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
+    "template": {
+        "type": "default",
+        "layout": "0,0,3,2",
+        "color": "msx-glass",
+        "imageFiller": "fit"
+    },
+    "items": [
+        {
+            "id": "spotify",
+            "title": "Spotify",
+            "image": "https://www.google.com/s2/favicons?sz=128&domain=spotify.com",
+            "color": "msx-green",
+            "action": "link:window:https://open.spotify.com"
+        },
+        {
+            "id": "soundcloud",
+            "title": "SoundCloud",
+            "image": "https://www.google.com/s2/favicons?sz=128&domain=soundcloud.com",
+            "color": "msx-black",
+            "action": "link:window:https://soundcloud.com"
+        }
+    ]
+}
