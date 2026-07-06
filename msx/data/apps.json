@@ -302,18 +302,6 @@
             "important": true,
             "action": "update:content:underlay:text",
             "data": {
-               "headline": "TVOЁ",
-               "text": "Платный онлайн кинотеатр. Требуется регистрация. Есть пробный период. {br}Приложение на этапе разработки и может работать нестабильно или с ошибками. Опубликовано для ознакомления с программой"
-            }
-         },
-         "image": "https://wals-portal.github.io/msx/logo/tvoe.png",
-         "action": "link:https://tv-old.tvoe.live"
-      },
-      {
-         "selection": {
-            "important": true,
-            "action": "update:content:underlay:text",
-            "data": {
                "headline": "MOVIELAB",
                "text": "Портал MOVIELAB на базе Media Station X. Просмотр видео контента on-line"
             }
@@ -344,18 +332,6 @@
          },
          "image": "https://wals-portal.github.io/msx/logo/filmix.png",
          "action": "link:http://filmix.tv/"
-      },
-      {
-         "selection": {
-            "important": true,
-            "action": "update:content:underlay:text",
-            "data": {
-               "headline": "КИНОПОИСК {col:yellow}(WebOS){col}",
-               "text": "Oнлайн-кинотеатр с фильмами и сериалами по подписке Яндекс Плюс или за отдельную плату."
-            }
-         },
-         "image": "https://wals-portal.github.io/msx/logo/kinopoisk.png",
-         "action": "link:https://smarttv-app.ott.yandex.ru/"
       },
       {
          "selection": {
