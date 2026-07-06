@@ -1,26 +1,24 @@
 {
+    "name": "Music",
     "type": "list",
     "headline": "Музика",
-    "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
     "template": {
-        "type": "default",
+        "type": "button",
         "layout": "0,0,3,2",
         "color": "msx-glass",
-        "imageFiller": "fit"
+        "iconSize": "large"
     },
     "items": [
         {
             "id": "spotify",
-            "title": "Spotify",
-            "image": "https://www.google.com/s2/favicons?sz=128&domain=spotify.com",
-            "color": "msx-green",
+            "icon": "music-note",
+            "label": "Spotify",
             "action": "link:window:https://open.spotify.com"
         },
         {
             "id": "soundcloud",
-            "title": "SoundCloud",
-            "image": "https://www.google.com/s2/favicons?sz=128&domain=soundcloud.com",
-            "color": "msx-black",
+            "icon": "headset",
+            "label": "SoundCloud",
             "action": "link:window:https://soundcloud.com"
         }
     ]
