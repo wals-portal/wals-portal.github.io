@@ -212,7 +212,7 @@
             }
          },
          "image": "https://wals-portal.github.io/msx/logo/lift3.png",
-         "action": "link:menu:request:interaction:menu@http://lift3.ws/msx/"
+         "action": "menu:request:interaction:menu@http://lift3.ws/msx/"
       }, 
       {
          "selection": {
