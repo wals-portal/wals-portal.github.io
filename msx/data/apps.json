@@ -467,6 +467,21 @@
          },
          "image": "https://wals-portal.github.io/msx/logo/ytkids.png",
          "action": "link:https://www.youtube.com/tv/kids"
+      },
+      {
+         "selection": {
+            "important": true,
+            "action": "update:content:underlay:text",
+            "data": {
+               "headline": "Dstore",
+               "text": "Dstrore - магазин приложений, кинозалы, новостные и развлекательные порталы."
+            }
+         },
+      "type": "control",
+      "layout": "",                                 
+      "image": "http://msx.nnmtv.pw/msx/img/dstore.png",
+      "label":"Dstore",
+      "action": "content:http://msx.lh1.in/msx/content.json"
       }
    ]
 }
