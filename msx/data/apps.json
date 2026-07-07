@@ -195,6 +195,30 @@
             "important": true,
             "action": "update:content:underlay:text",
             "data": {
+               "headline": "VI3000",
+			   "text": Тысячи фильмов, сериалов, мультфильмов и аниме в одном месте: — Бесплатный доступ — Без рекламы — 4K / HD качество. Токен можно получить через бота в телеграмм {col:msx-blue}https://t.me/@vi3000_bot"
+            }
+         },
+         "image": "https://wals-portal.github.io/msx/logo/vi3000.png",
+         "action": "link:https://vi3000.top/"
+      },
+      {
+         "selection": {
+            "important": true,
+            "action": "update:content:underlay:text",
+            "data": {
+               "headline": "Lift3",
+			   "text": Тысячи фильмов, сериалов, мультфильмов и аниме в одном месте: — Бесплатный доступ — Без рекламы — 4K / HD качество. Токен можно получить через бота в телеграмм {col:msx-blue}https://t.me/@vi3000_bot"
+            }
+         },
+         "image": "https://wals-portal.github.io/msx/logo/lift3.png",
+         "action": "link:menu:request:interaction:menu@http://lift3.ws/msx/"
+      }, 
+      {
+         "selection": {
+            "important": true,
+            "action": "update:content:underlay:text",
+            "data": {
                "headline": "Lampa-UspehTV",
                "text": "Мод программы Lampa бесплатными каналами IPTV и плагинами для просмотра медиаконтента онлайн. {br}Для просмотра необходимо ввести токен. Токен можно получить через бота в телеграмм {col:msx-blue}https://t.me/UspehTVBot"
             }
