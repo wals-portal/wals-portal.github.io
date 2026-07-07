@@ -494,6 +494,21 @@
       "image": "http://msx.nnmtv.pw/msx/img/dstore.png",
       "label":"Dstore",
       "action": "content:http://msx.lh1.in/msx/content.json"
+      },
+      {
+         "selection": {
+            "important": true,
+            "action": "update:content:underlay:text",
+            "data": {
+               "headline": "MSX CC UA портал",
+               "text": "MSX CC UA портал. Запуск web приложений"
+            }
+         },
+      "type": "control",
+      "layout": "",                                 
+      "image": "https://wals09.github.io/msx/alterstore/msx-icon.png",
+      "label":"Dstore",
+      "action": "content:http://msx.cc.ua/msx/start.json"
       }
    ]
 }
