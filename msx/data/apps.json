@@ -89,7 +89,7 @@
             }
          },
          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/SS_IPTV_logo.png",
-         "action": "java:https://app.ss-iptv.com/tv.js"
+         "action": "link:https://api.ss-iptv.com/tv/"
       },
       {
          "selection": {
