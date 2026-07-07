@@ -89,7 +89,7 @@
             }
          },
          "image": "http://filzakbkru.temp.swtest.ru/msx/ssiptv.png",
-         "action": "link:http://app.ss-iptv.com/?group=LG&version=r_beta"
+         "action": "link:http://app.ss-iptv.com/?version=1.0.4&target=operatv"
       },
       {
          "selection": {
