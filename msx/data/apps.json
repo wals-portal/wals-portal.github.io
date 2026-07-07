@@ -88,8 +88,8 @@
                "text": "SS-IPTV. Возможность просмотра своих плейлистов."
             }
          },
-         "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/SS_IPTV_logo.png",
-         "action": "link:https://api.ss-iptv.com/tv/"
+         "image": "http://filzakbkru.temp.swtest.ru/msx/ssiptv.png",
+         "action": "link:http://app.ss-iptv.com/?group=LG&version=r_beta"
       },
       {
          "selection": {
