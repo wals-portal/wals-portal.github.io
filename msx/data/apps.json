@@ -89,7 +89,7 @@
             }
          },
          "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/SS_IPTV_logo.png",
-         "action": "link:http://app.ss-iptv.com/?version=1.0.4&target=operatv"
+         "action": "link:http://app.ss-iptv.com/"
       },
       {
          "selection": {
