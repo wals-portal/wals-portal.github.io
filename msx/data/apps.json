@@ -84,6 +84,18 @@
             "important": true,
             "action": "update:content:underlay:text",
             "data": {
+               "headline": "SS-IPTV",
+               "text": "SS-IPTV. Возможность просмотра своих плейлистов."
+            }
+         },
+         "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/SS_IPTV_logo.png",
+         "action": "link:http://app.ss-iptv.com/?version=1.0.4&target=operatv"
+      },
+      {
+         "selection": {
+            "important": true,
+            "action": "update:content:underlay:text",
+            "data": {
                "headline": "ICVA",
                "text": "IPTV player от разработчиков LAMPA. Возможность просмотра своих плейлистов."
             }
