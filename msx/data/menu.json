@@ -23,13 +23,13 @@
             "id": "music",
             "label": "Музика",
             "icon": "music-note",
-            "data": "https://wals-portal.github.io/msx/data/free_kino.json"
+            "data": "https://wals-portal.github.io/msx/data/free_film.json"
         },
         {
             "id": "tools",
             "label": "Інструменти",
             "icon": "build",
-            "data": "https://wals-portal.github.io/msx/data/full_kino.json"
+            "data": "https://wals-portal.github.io/msx/data/full_film.json"
         },
         {
             "type": "separator"
