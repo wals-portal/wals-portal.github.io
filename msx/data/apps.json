@@ -480,9 +480,9 @@
          },
       "type": "control",
       "layout": "",                                 
-      "image": "http://msx.nnmtv.pw/msx/img/dstore.png",
+      "image": "https://wals-portal.github.io/msx/logo/dstore.png",
       "label":"Dstore",
-      "action": "content:http://msx.lh1.in/msx/content.json"
+      "action": "content:https://dstore.lh1.in/msx/content.json"
       },
       {
          "selection": {
