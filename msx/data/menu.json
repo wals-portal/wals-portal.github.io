@@ -28,7 +28,7 @@
         {
             "id": "video_library",
             "label": "Все кіно",
-            "icon": "video_library",
+            "icon": "movie-filter",
             "data": "https://wals-portal.github.io/msx/data/full_film.json"
         },
         {
