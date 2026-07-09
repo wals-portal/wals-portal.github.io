@@ -3,7 +3,7 @@
     "version": "1.0.0",
     "headline": "WALS-PORTAL",
     "dictionary": "https://wals-portal.github.io/msx/dictionary.json",
-    "logo": "https://wals09.github.io/msx/logo/wp.png",
+    "logo": "https://wals-portal.github.io/msx/logo/wp.png",
     "style": "default",
     "menu": [
         {
