@@ -17,19 +17,19 @@
             "id": "movies",
             "label": "Кіно та ТБ",
             "icon": "live-tv",
-            "data": "https://wals-portal.github.io/msx/data/movies.json"
+            "data": "https://wals-portal.github.io/msx/data/iptv.json"
         },
         {
             "id": "music",
             "label": "Музика",
             "icon": "music-note",
-            "data": "https://wals-portal.github.io/msx/data/music.json"
+            "data": "https://wals-portal.github.io/msx/data/free_kino.json"
         },
         {
             "id": "tools",
             "label": "Інструменти",
             "icon": "build",
-            "data": "https://wals-portal.github.io/msx/data/tools.json"
+            "data": "https://wals-portal.github.io/msx/data/full_kino.json"
         },
         {
             "type": "separator"
