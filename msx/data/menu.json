@@ -1,7 +1,9 @@
 {
     "name": "Wals Portal",
     "version": "1.0.0",
-    "headline": "MY WALS",
+    "headline": "WALS-PORTAL",
+    "dictionary": "https://wals-portal.github.io/msx/dictionary.json",
+    "logo": "https://wals09.github.io/msx/logo/wp.png",
     "style": "default",
     "menu": [
         {
