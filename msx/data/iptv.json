@@ -115,6 +115,6 @@
          },
          "image": "https://wals-portal.github.io/msx/logo/ottplayer.png",
          "action": "link:http://widget.ottplayer.tv"
-      },
+      }
     ]
 }
