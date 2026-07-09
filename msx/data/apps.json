@@ -197,7 +197,7 @@
             "action": "update:content:underlay:text",
             "data": {
                "headline": "VI3000",
-			   "text": "Тысячи фильмов, сериалов, мультфильмов и аниме в одном месте: — Бесплатный доступ — Без рекламы — 4K / HD качество. Токен можно получить через бота в телеграмм {col:msx-blue}https://t.me/@vi3000_bot"
+			   "text": "Медіаресурс для перегляду фільмів та серіалів."
             }
          },
          "image": "https://wals-portal.github.io/msx/logo/vi3000.png",
@@ -209,7 +209,7 @@
             "action": "update:content:underlay:text",
             "data": {
                "headline": "Lift3",
-			   "text": "Тысячи фильмов, сериалов, мультфильмов и аниме в одном месте: — Бесплатный доступ — Без рекламы — 4K / HD качество. Токен можно получить через бота в телеграмм {col:msx-blue}https://t.me/@vi3000_bot"
+			   "text": "Безкоштовний онлайн-кінотеатр без реклами і підписок."
             }
          },
          "image": "https://wals-portal.github.io/msx/logo/lift3.png",
@@ -221,7 +221,7 @@
             "action": "update:content:underlay:text",
             "data": {
                "headline": "Lampa-UspehTV",
-               "text": "Мод программы Lampa бесплатными каналами IPTV и плагинами для просмотра медиаконтента онлайн. {br}Для просмотра необходимо ввести токен. Токен можно получить через бота в телеграмм {col:msx-blue}https://t.me/UspehTVBot"
+               "text": "Спеціалізована та оптимізована збірка на базі безкоштовного онлайн-кінотеатру LAMPA, розроблена проектом ⁠Uspeh TV."
             }
          },
          "image": "https://wals-portal.github.io/msx/logo/uspeh2.png",
@@ -245,7 +245,7 @@
             "action": "update:content:underlay:text",
             "data": {
                "headline": "Lampa{col:yellow}|{col} NoName",
-               "text": "Настроенная для просмотра контента онлайн. Благодарим уважаемого Noname."
+               "text": "Налаштована для перегляду контенту онлайн. Дякуємо шановному Noname."
             }
          },
          "image": "https://wals-portal.github.io/msx/logo/lampaNN.png",
@@ -257,7 +257,7 @@
             "action": "update:content:underlay:text",
             "data": {
                "headline": "Lampa lite {col:yellow}|{col} NoName",
-               "text": "Настроенная программа Lampa lite «готовая к употреблению». Благодарим уважаемого Noname"
+               "text": "Налаштована програма Lampa lite. Дякуємо шановному Noname."
             }
          },
          "image": "https://wals-portal.github.io/msx/logo/lampa_lite.png",
@@ -269,7 +269,7 @@
             "action": "update:content:underlay:text",
             "data": {
                "headline": "VoKINO",
-               "text": "Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов"
+               "text": "Популярний кросплатформний онлайн-кінотеатр."
             }
          },
          "image": "https://wals-portal.github.io/msx/logo/vokino.png",
@@ -281,7 +281,7 @@
             "action": "update:content:underlay:text",
             "data": {
                "headline": "NetFix",
-               "text": "NetFix - приложение (на базе программы Lampa) для просмотра фильмов и сериалов онлайн! Не требуется никаких настроек. Запустил и смотри. Просмотр торрентов не предусмотрен.{br}ВАЖНО: Нужна регистрация! Нужна оплаченная подписка! Есть тестовый период"
+               "text": "Неофіційний додаток, сервіс для перегляду фільмів та серіалів.{br}ВАЖЛИВО: Потрібна реєстрація! Потрібна оплачена передплата! Є тестовий період."
             }
          },
          "image": "https://wals-portal.github.io/msx/logo/NetFix.png",
@@ -293,7 +293,7 @@
             "action": "update:content:underlay:text",
             "data": {
                "headline": "ATODO",
-               "text": "Приложение для просмотра различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов"
+               "text": "Безкоштовний портал, яка використовується для запуску онлайн-кінотеатру."
             }
          },
          "image": "https://wals-portal.github.io/msx/logo/atodo.png",
@@ -305,7 +305,7 @@
             "action": "update:content:underlay:text",
             "data": {
                "headline": "ATODO-web",
-               "text": "Web версия приложения ATODO. Просмотр различного медиаконтента: фильмов, сериалов, аниме, а так же просмотр торрентов"
+               "text": "Вебверсія застосунку. Безкоштовний портал, яка використовується для запуску онлайн-кінотеатру."
             }
          },
          "image": "https://wals-portal.github.io/msx/logo/atodo.png",
