@@ -1,6 +1,6 @@
 {
    "type": "list",
-	"background": "https://static.tildacdn.com/tild6632-3233-4236-a166-613266623434/wallhaven-kw7pd7.png",
+	"background": "https://w.wallhaven.cc/full/ym/wallhaven-ymvojl.png",
    "headline": "WALS_PORTAL 1.0.0",
    "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
    "dictionary": "https://wals-portal.github.io/msx/dictionary.json",
@@ -145,8 +145,8 @@
             "important": true,
             "action": "update:content:underlay:text",
             "data": {
-               "headline": "Lampset (Набор Ламп 😁)",
-               "text": "Подборка приложения \"LAMPA\" с альтернативными адресами на случай \"падения\" оригинальной или для постоянного использования. {br} Воспользуйтесь сохранением и переносом настроек на сайте {col:msx-blue}cub.red {col}что-бы не настраивать приложение заново."
+               "headline": "Lampa-set (Набір)",
+               "text": "Добірка запасних адрес для додатку LAMPA, якщо оригінальний сайт не працює. {br} Не втрачайте свої дані! Перенесіть та збережіть налаштування через {col:msx-blue}cub.red{col}, і додаток завжди буде готовий до роботи."
             }
          },
          "image": "https://wals-portal.github.io/msx/logo/lampset.png",
@@ -173,7 +173,7 @@
             "action": "update:content:underlay:text",
             "data": {
                "headline": "Akter Black",
-               "text": "Популярний медіасервіс та додаток для перегляду фільмів і телеканалів через торренти, який працює як альтернатива таким програмам, як Lampa{br} або LazyMedia{br}"
+               "text": "Популярний медіасервіс та додаток для перегляду фільмів і телеканалів через торренти, який працює як альтернатива таким програмам, як Lampa або LazyMedia"
             }
          },
          "image": "https://wals-portal.github.io/msx/logo/akter_black.png",
