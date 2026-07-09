@@ -120,18 +120,6 @@
             "important": true,
             "action": "update:content:underlay:text",
             "data": {
-               "headline": "Oneplayer",
-               "text": "Mультиплатформенный плеер для воспроизведения m3u плейлистов в общепринятом формате, подходит для воспроизведения аудио, видео, радио, live плейлистов. "
-            }
-         },
-         "image": "https://wals-portal.github.io/msx/logo/one_player.png",
-         "action": "link:http://webos.oneplayer.me"
-      },
-      {
-         "selection": {
-            "important": true,
-            "action": "update:content:underlay:text",
-            "data": {
                "headline": "LAMPA",
                "text": "Приложение-каталог. Не содержит медиаконтента, но легко трансформируется в онлайн кинотеатр с возможностью просмотра торрентов и iptv"
             }
