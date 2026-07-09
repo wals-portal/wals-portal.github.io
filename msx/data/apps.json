@@ -1,7 +1,8 @@
 {
    "type": "list",
+	"background": "https://static.tildacdn.com/tild6632-3233-4236-a166-613266623434/wallhaven-kw7pd7.png",
    "headline": "WALS_PORTAL 1.0.0",
-   "extension": "{col:msx-white}{ico:msx-white:event} {now:date:dd.mm.yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
+   "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
    "dictionary": "https://wals-portal.github.io/msx/dictionary.json",
    "action": "[settings:validate_links:0|home]",
    "preload": "next",
@@ -88,7 +89,7 @@
                "text": "SS-IPTV. Возможность просмотра своих плейлистов."
             }
          },
-         "image": "http://filzakbkru.temp.swtest.ru/msx/ssiptv.png",
+         "image": "https://upload.wikimedia.org/wikipedia/commons/b/b9/SS_IPTV_logo.png",
          "action": "link:http://app.ss-iptv.com/?version=1.0.4&target=operatv"
       },
       {
