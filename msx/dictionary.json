@@ -97,7 +97,7 @@
     "label:start_parameter": "Плейлист",
     "label:success": "{ico:msx-green:check-circle} Успішно",
     "label:transformations": "Трансформації",
-    "label:tv_control": "Керування телевізором"
+    "label:tv_control": "Керування телевізором",
   	"label:unknown": "Невідомо",
   	"label:url_parameters": "Параметри URL",
   	"label:user_agent": "User Agent",
