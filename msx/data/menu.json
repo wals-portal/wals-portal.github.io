@@ -14,9 +14,9 @@
             "data": "https://wals-portal.github.io/msx/data/apps.json"
         },
         {
-            "id": "movies",
-            "label": "Кіно та ТБ",
-            "icon": "live-tv",
+            "id": "iptv",
+            "label": "IPTV застосунки",
+            "icon": "iptv",
             "data": "https://wals-portal.github.io/msx/data/iptv.json"
         },
         {
