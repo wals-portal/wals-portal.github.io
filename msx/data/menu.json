@@ -16,7 +16,7 @@
         {
             "id": "iptv",
             "label": "IPTV застосунки",
-            "icon": "iptv",
+            "icon": "tv",
             "data": "https://wals-portal.github.io/msx/data/iptv.json"
         },
         {
