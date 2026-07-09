@@ -1,16 +1,47 @@
 {
-    "name": "IPTV застосунки",
-    "type": "list",
-	"background": "https://w.wallhaven.cc/full/ym/wallhaven-ymvojl.png",
-	"extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
-    "dictionary": "https://wals-portal.github.io/msx/dictionary.json",
-	"headline": "IPTV застосунки",
-    "template": {
-        "type": "button",
-        "layout": "0,0,3,2",
-        "color": "msx-glass",
-        "iconSize": "large"
-    },
+   "type": "list",
+   "background": "https://w.wallhaven.cc/full/ym/wallhaven-ymvojl.png",
+   "headline": "WALS_PORTAL 1.0.0",
+   "extension": "{col:msx-white}{ico:msx-white:event} {now:date:D, M d, yyyy}{tb}{ico:msx-white:access-time} {now:time:hh:mm}",
+   "dictionary": "https://wals-portal.github.io/msx/dictionary.json",
+   "action": "[settings:validate_links:0|home]",
+   "preload": "next",
+   "captionUnderlay": 1,
+   "underlay": {
+      "items": [
+         {
+            "type": "space",
+            "round": false,
+            "layout": "0,3,12,3",
+            "offset": "-1.25,-0.6,2,1.17",
+            "color": "msx-black-soft"
+         },
+         {
+            "type": "space",
+            "round": false,
+            "layout": "0,0,12,1",
+            "offset": "-1,0,2,-0.8",
+            "color": "red"
+         },
+         {
+            "id": "text",
+            "type": "space",
+            "layout": "1,0,6,3",
+            "offset": "-1,0.5,1,0",
+            "headline": "",
+            "text": ""
+         }
+      ]
+   },
+   "template": {
+      "type": "default",
+      "layout": "0,0,1,1",
+      "area": "0,0,12,3",
+      "offset": "0,2.5,0,0",
+      "trigger:back": "player:stop",
+      "color": "msx-glass",
+      "imageFiller": "cover"
+   },
     "items": [
         {
          "titleHeader": "",
