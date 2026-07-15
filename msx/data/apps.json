@@ -341,7 +341,7 @@
             "action": "update:content:underlay:text",
             "data": {
                "headline": "Forkplayer",
-               "text": "один із найстаріших та найпопулярніших безкоштовних браузерів-агрегаторів контенту для Smart TV, який дозволяє переглядати фільми, серіали та IPTV-канали через спеціально адаптовані Fxml-сторінки та віджети."
+               "text": "Один із найстаріших та найпопулярніших безкоштовних браузерів-агрегаторів контенту для Smart TV, який дозволяє переглядати фільми, серіали та IPTV-канали через спеціально адаптовані Fxml-сторінки та віджети."
             }
          },
          "image": "https://wals-portal.github.io/msx/logo/fork_com.png",
@@ -401,7 +401,7 @@
             "action": "update:content:underlay:text",
             "data": {
                "headline": "DEEPLEX",
-               "text": "платний онлайн-кінотеатр та медіаагрегатор для Smart TV, Android-пристроїв та ПК, який збирає в один каталог понад 250 000 фільмів, серіалів та мультфільмів із різних джерел, включаючи пряму трансляцію торентів."
+               "text": "Платний онлайн-кінотеатр та медіаагрегатор для Smart TV, Android-пристроїв та ПК, який збирає в один каталог понад 250 000 фільмів, серіалів та мультфільмів із різних джерел, включаючи пряму трансляцію торентів."
             }
          },
          "image": "https://wals-portal.github.io/msx/logo/deeplex.png",
@@ -449,7 +449,7 @@
             "action": "update:content:underlay:text",
             "data": {
                "headline": "YouTUBE",
-               "text": "найбільший у світі офіційний відеохостинг та стрімінгова платформа, що належить компанії Google"
+               "text": "Найбільший у світі офіційний відеохостинг та стрімінгова платформа, що належить компанії Google"
             }
          },
 		 "type": "control",
@@ -495,6 +495,21 @@
       "type": "control",
       "layout": "",                                 
       "image": "https://wals09.github.io/msx/alterstore/msx-icon.png",
+      "label":"Dstore",
+      "action": "content:http://msx.cc.ua/msx/start.json"
+      },
+	  {
+         "selection": {
+            "important": true,
+            "action": "update:content:underlay:text",
+            "data": {
+               "headline": "Radio On",
+               "text": "Популярний безкоштовний додаток для прослуховування онлайн-радіостанцій з усього світу."
+            }
+         },
+      "type": "control",
+      "layout": "",                                 
+      "image": "https://wals-portal.github.io/msx/logo/radio.png",
       "label":"Dstore",
       "action": "content:http://msx.cc.ua/msx/start.json"
       }
