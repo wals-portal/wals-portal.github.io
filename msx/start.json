@@ -1,5 +1,6 @@
 {
     "name": "WALS-Portal",
     "version": "1.0.0",
-    "parameter": "menu:https://wals-portal.github.io/msx/data/menu.json"
+    "parameter": "menu:https://wals-portal.github.io/msx/data/menu.json",
+    "action": "[settings:validate_links:0|home]"
 }
