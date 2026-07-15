@@ -488,12 +488,12 @@
             "important": true,
             "action": "update:content:underlay:text",
             "data": {
-               "headline": "MSX CC UA портал",
+               "headline": "MSX PP UA портал",
                "text": "Популярний український стартовий параметр та альтернативний магазин додатків (App Store) для кросплатформного медіацентру Media Station X."
             }
          },
       "image": "https://wals09.github.io/msx/alterstore/msx-icon.png",
-      "action": "content:http://msx.cc.ua/msx/start.json"
+      "action": "content:https://msx.pp.ua/msx/start.json"
       },
 	  {
          "selection": {
