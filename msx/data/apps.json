@@ -506,7 +506,19 @@
          },
       "image": "https://wals-portal.github.io/msx/logo/radio.png",
       "action": "link:https://radioon.pp.ua"
-      }
+      },
+	  {
+         "selection": {
+            "important": true,
+            "action": "update:content:underlay:text",
+            "data": {
+               "headline": "Магазин додатків NoName",
+               "text": "Використовується як стартова або конфігураційна сторінка (вітальний URL) для програми Media Station X"
+            }
+         },
+      "image": "https://wals09.github.io/msx/alterstore/msx-icon.png",
+      "action": "content: http://nnmtv.pw/msx/menu.json"
+      } 
    ]
 }
 
