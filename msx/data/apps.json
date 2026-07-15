@@ -492,10 +492,7 @@
                "text": "Популярний український стартовий параметр та альтернативний магазин додатків (App Store) для кросплатформного медіацентру Media Station X."
             }
          },
-      "type": "control",
-      "layout": "",                                 
       "image": "https://wals09.github.io/msx/alterstore/msx-icon.png",
-      "label":"Dstore",
       "action": "content:http://msx.cc.ua/msx/start.json"
       },
 	  {
@@ -507,11 +504,8 @@
                "text": "Популярний безкоштовний додаток для прослуховування онлайн-радіостанцій з усього світу."
             }
          },
-      "type": "control",
-      "layout": "",                                 
       "image": "https://wals-portal.github.io/msx/logo/radio.png",
-      "label":"Dstore",
-      "action": "content:http://msx.cc.ua/msx/start.json"
+      "action": "link:https://radioon.pp.ua"
       }
    ]
 }
