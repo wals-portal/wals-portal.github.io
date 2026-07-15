@@ -517,7 +517,7 @@
             }
          },
       "image": "https://wals09.github.io/msx/alterstore/msx-icon.png",
-      "action": "content: http://nnmtv.pw/msx/menu.json"
+      "action": "content:http://nnmtv.pw/msx/menu.json"
       } 
    ]
 }
